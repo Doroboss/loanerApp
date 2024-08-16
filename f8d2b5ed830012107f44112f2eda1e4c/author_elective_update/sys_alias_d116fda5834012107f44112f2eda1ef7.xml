@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template>
+        <connection_type>sys_connection</connection_type>
+        <id>x_cdltd_loner_requ.GitHub_Connection</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Connection</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 01:07:28</sys_created_on>
+        <sys_id>d116fda5834012107f44112f2eda1ef7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_cdltd_loner_requ.GitHub_Connection</sys_name>
+        <sys_package display_value="Loner Request Application" source="x_cdltd_loner_requ">f8d2b5ed830012107f44112f2eda1e4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request Application">f8d2b5ed830012107f44112f2eda1e4c</sys_scope>
+        <sys_update_name>sys_alias_d116fda5834012107f44112f2eda1ef7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 01:24:11</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loner Request Application">f8d2b5ed830012107f44112f2eda1e4c</application>
+        <file_path/>
+        <instance_id>a47992dd838856507fdd78426daad3bc</instance_id>
+        <instance_name>nowlearning-nlinst01985932-0001</instance_name>
+        <name>sys_alias_d116fda5834012107f44112f2eda1ef7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template><connection_type>sys_connection</connection_type><id>x_cdltd_loner_requ.GitHub_Connection</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>GitHub Connection</name><parent/><retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-16 01:07:28</sys_created_on><sys_id>d116fda5834012107f44112f2eda1ef7</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_cdltd_loner_requ.GitHub_Connection</sys_name><sys_package display_value="Loner Request Application" source="x_cdltd_loner_requ">f8d2b5ed830012107f44112f2eda1e4c</sys_package><sys_policy/><sys_scope display_value="Loner Request Application">f8d2b5ed830012107f44112f2eda1e4c</sys_scope><sys_update_name>sys_alias_d116fda5834012107f44112f2eda1ef7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-16 01:24:11</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1786610580</payload_hash>
+        <record_name>x_cdltd_loner_requ.GitHub_Connection</record_name>
+        <reverted_from/>
+        <source>f8d2b5ed830012107f44112f2eda1e4e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 01:24:11</sys_created_on>
+        <sys_id>095a3d69834012107f44112f2eda1e76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19158c8f92e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 01:24:11</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>415a3d69664012102a045bff5bf65a76</update_guid>
+        <update_guid_history>415a3d69664012102a045bff5bf65a76:1786610580,414971e9e1401210c03c8726096f1248:593224778,5867b52906401210756fddb1be539e66:1899645027,c886bde594401210285f766a53ad564e:-1186828929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 01:28:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>81dde1427b664d4c8900b9da5850f164</sys_id>
+        <sys_metadata>d116fda5834012107f44112f2eda1ef7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loner_requ.GitHub_Connection</sys_name>
+        <sys_package display_value="Loner Request Application" source="x_cdltd_loner_requ">f8d2b5ed830012107f44112f2eda1e4c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request Application">f8d2b5ed830012107f44112f2eda1e4c</sys_scope>
+        <sys_scope_delete display_value="">000a68c3242b4d0cbb4a514389937190</sys_scope_delete>
+        <sys_update_name>sys_alias_d116fda5834012107f44112f2eda1ef7</sys_update_name>
+        <sys_update_version display_value="sys_alias_d116fda5834012107f44112f2eda1ef7">095a3d69834012107f44112f2eda1e76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 01:28:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
